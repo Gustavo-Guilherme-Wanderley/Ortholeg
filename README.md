@@ -27,7 +27,7 @@ A **OrthoLeg Board V1** é o cérebro eletrônico do sistema, composta por:
 <img width="600" height="450" alt="Modelo 3D da Placa Ortholeg" src="https://github.com/user-attachments/assets/084ba103-7497-4d97-9403-00b55f111cd1" />
 
 ### Placa Fabricada
-<img width="450" height="800" alt="Placa Ortholeg" src="https://github.com/user-attachments/assets/06c7a9de-22ba-4a3a-9cea-b7e820b640df" />
+<img width="364" height="398" alt="Image" src="https://github.com/user-attachments/assets/b54ddeee-4edd-4f48-b23d-03b400ebf26f" />
 
 ### Capa da Base
 <img width="800" height="500" alt="Capa da Base" src="https://github.com/user-attachments/assets/91c561c7-3ecd-4a40-afc4-6c5a2ca0764a" />
