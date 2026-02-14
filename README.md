@@ -7,7 +7,7 @@ O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à l
 
 * `/firmware`: Códigos `.ino` e `.py`.
 * `/3D Models`: Arquivos de modelos 3D (`.f3d`).
-* `/scripts`: Ferramentas em Python para leitura serial e plotagem de gráficos.
+* `/Board Files`: Arquivos de PCB(EasyEDA)
 
 ## Hardware: Ortholeg Board V1
 
