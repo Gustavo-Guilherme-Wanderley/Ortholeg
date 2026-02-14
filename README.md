@@ -48,8 +48,10 @@ O script "SerialScript.py" consiste na utilização da biblioteca PySerial para 
 O Firmware presente no "Controle_articulacao_em_Graus_V1.ino" é o mesmo nos quatro arduinos utilizados. Ele consiste em um algoritmo de controle todo feito em C++ para que os motores de alta precisão funcionem. Sendo assim, ele funciona em conjunto com o código presente no raspberry pi.
 
 ## Construção da PCB
-O PCB foi feito utilizando o software EasyEDA. Sendo assim, foi feito o esquemático de acordo com a necessidade do projeto e em seguida foi feito o posicionamento dos componentes. A fabricação foi feita pelo Protolab do IMD/Npiti.
+O PCB foi feito utilizando o software EasyEDA. Sendo assim, foi feito o esquemático de acordo com a necessidade do projeto e em seguida foi feito o posicionamento dos componentes. A fabricação foi feita pelo Protolab do IMD/NPITI.
 
+## Modelo 3D Case
+A case do projeto foi constrúida através do programa Fusion 360. Nele foi feito todo o desenho técnico e extrusão do objeto. A fabricação ocorreu no Protolab do IMD/NPITI.
 
 
 
