@@ -54,7 +54,7 @@ O script `SerialScript.py` utiliza a biblioteca **PySerial** para realizar a com
 3. Facilitar a leitura de dados vindos dos controladores.
 
 ## Firmware Arduino
-O Firmware presente no "Controle_articulacao_em_Graus_V1.ino" é o mesmo nos quatro arduinos utilizados. Ele consiste em um algoritmo de controle todo feito em C++ para que os motores de alta precisão funcionem. Sendo assim, ele funciona em conjunto com o código presente no raspberry pi.
+O Firmware presente no `Controle_articulacao_em_Graus_V1.ino` é o mesmo nos quatro arduinos utilizados. Ele consiste em um algoritmo de controle todo feito em C++ para que os motores de alta precisão funcionem. Sendo assim, ele funciona em conjunto com o código presente no raspberry pi.
 
 ## Fabricação e Modelagem
 
