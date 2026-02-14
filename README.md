@@ -19,9 +19,11 @@ A **OrthoLeg Board V1** consiste em uma placa que contém:
 
 ### Modelo 3D da Placa
 <img width="600" height="450" alt="Modelo 3D da Placa Ortholeg" src="https://github.com/user-attachments/assets/084ba103-7497-4d97-9403-00b55f111cd1" />
+<img width="450" height="1000" alt="Placa Ortholeg" src="https://github.com/user-attachments/assets/06c7a9de-22ba-4a3a-9cea-b7e820b640df" />
 
 ### Capa da Base
 <img width="800" height="500" alt="Capa da Base" src="https://github.com/user-attachments/assets/91c561c7-3ecd-4a40-afc4-6c5a2ca0764a" />
+<img width="450" height="1000" alt="Capa da Base Fabricada" src="https://github.com/user-attachments/assets/cdd70863-a185-4892-a269-7c55e6efe981" />
 
 ---
 
