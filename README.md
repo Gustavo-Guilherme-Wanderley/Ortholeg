@@ -4,7 +4,7 @@ O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à l
 
 ---
 
-## 🛠️ Hardware: OrthoLeg Board V1
+## Hardware: OrthoLeg Board V1
 
 A **OrthoLeg Board V1** consiste em uma placa que contém:
 * Dois Arduinos Nano.
