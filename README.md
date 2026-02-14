@@ -7,26 +7,32 @@ O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à l
 <img width="450" height="1000" alt="Image" src="https://github.com/user-attachments/assets/bc33c4d5-1661-427d-85cf-b37730661d6b" />
 
 ---
-## Organização do Repositório
 
-* `/firmware`: Códigos `.ino` e `.py`.
-* `/3D Models`: Arquivos de modelos 3D (`.f3d`).
-* `/Board Files`: Arquivos de PCB(EasyEDA)
+## 📁 Organização do Repositório
 
-## Hardware: Ortholeg Board V1
+| Diretório | Descrição |
+| :--- | :--- |
+| `/firmware` | Códigos fonte Arduino (`.ino`) e scripts Python (`.py`). |
+| `/3D Models` | Arquivos de modelagem técnica e design (`.f3d`). |
+| `/Board Files` | Arquivos de projeto da PCB desenvolvidos no EasyEDA. |
 
-A **OrthoLeg Board V1** consiste em uma placa que contém:
-* Dois Arduinos Nano.
-* Um conversor Buck para redução de tensão.
-* Dois conectores para conexão dos encoders.
-* Conectores para comunicação com os drivers dos motores.
+---
+## Hardware: OrthoLeg Board V1
 
+A **OrthoLeg Board V1** é o cérebro eletrônico do sistema, composta por:
+* **Processamento:** 2x Arduinos Nano.
+* **Potência:** Conversor Buck para regulação de tensão.
+* **Interface:** Conectores dedicados para encoders e drivers de motor.
 ### Modelo 3D da Placa
 <img width="600" height="450" alt="Modelo 3D da Placa Ortholeg" src="https://github.com/user-attachments/assets/084ba103-7497-4d97-9403-00b55f111cd1" />
-<img width="450" height="1000" alt="Placa Ortholeg" src="https://github.com/user-attachments/assets/06c7a9de-22ba-4a3a-9cea-b7e820b640df" />
+
+### Placa Fabricada
+<img width="450" height="800" alt="Placa Ortholeg" src="https://github.com/user-attachments/assets/06c7a9de-22ba-4a3a-9cea-b7e820b640df" />
 
 ### Capa da Base
 <img width="800" height="500" alt="Capa da Base" src="https://github.com/user-attachments/assets/91c561c7-3ecd-4a40-afc4-6c5a2ca0764a" />
+
+### Capa Fabricada
 <img width="450" height="1000" alt="Capa da Base Fabricada" src="https://github.com/user-attachments/assets/cdd70863-a185-4892-a269-7c55e6efe981" />
 
 ---
