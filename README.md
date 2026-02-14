@@ -58,7 +58,7 @@ O Firmware presente no `Controle_articulacao_em_Graus_V1.ino` é o mesmo nos qua
 
 ## Fabricação e Modelagem
 
-* **Construção da PCB:** Projetada no **EasyEDA**. O fluxo envolveu desde o esquemático até o roteamento otimizado. Fabricada pelo **Protolab do IMD/NPITI**.
+* **Construção da PCB:** Projetada no **EasyEDA**. Fabricada pelo **Protolab do IMD/NPITI**.
 * **Modelo 3D Case:** Desenvolvida no **Autodesk Fusion 360**, com foco em desenho técnico e extrusão para encaixe perfeito dos componentes. Fabricação realizada via impressão 3D/usinagem no **Protolab do IMD/NPITI**.
 
 
