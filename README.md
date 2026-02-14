@@ -19,7 +19,7 @@ O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à l
 ---
 ## Hardware: OrthoLeg Board V1
 
-A **OrthoLeg Board V1** é o cérebro eletrônico do sistema, composta por:
+A **OrthoLeg Board V1** é o cérebro eletrônico do sistema, composto por:
 * **Processamento:** 2x Arduinos Nano.
 * **Potência:** Conversor Buck para regulação de tensão.
 * **Interface:** Conectores dedicados para encoders e drivers de motor.
