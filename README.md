@@ -47,18 +47,19 @@ A **OrthoLeg Board V1** é o cérebro eletrônico do sistema, composta por:
 ### Arquitetura de Hardware
 <img width="615" height="439" alt="Arquitetura de Hardware" src="https://github.com/user-attachments/assets/8cbc2e5b-d47a-4639-b1d6-62dcfd773fec" />
 
-## Script Raspberry Pi
-O script "SerialScript.py" consiste na utilização da biblioteca PySerial para realizar a comunicação bidirecional entre os 4 arduinos e o raspberry pi. No código em python, é possível inserir uma sequência de ângulos a serem atingidos pelo exoesqueleto. Sendo assim, essa sequência é passada para os arduinos e assim o movimento é realizado. Através desse script, é possível também ler tudo o que o arduino manda através do raspberry, tornando a leitura de todas as portas serias de forma mais fácil.
+### Script Raspberry Pi
+O script `SerialScript.py` utiliza a biblioteca **PySerial** para realizar a comunicação bidirecional entre os 4 Arduinos e a Raspberry Pi. Através dele, é possível:
+1. Inserir sequências de ângulos para o movimento do exoesqueleto.
+2. Monitorar todas as portas seriais simultaneamente.
+3. Facilitar a leitura de dados vindos dos controladores.
 
 ## Firmware Arduino
 O Firmware presente no "Controle_articulacao_em_Graus_V1.ino" é o mesmo nos quatro arduinos utilizados. Ele consiste em um algoritmo de controle todo feito em C++ para que os motores de alta precisão funcionem. Sendo assim, ele funciona em conjunto com o código presente no raspberry pi.
 
-## Construção da PCB
-O PCB foi feito utilizando o software EasyEDA. Sendo assim, foi feito o esquemático de acordo com a necessidade do projeto e em seguida foi feito o posicionamento dos componentes. A fabricação foi feita pelo Protolab do IMD/NPITI.
+## Fabricação e Modelagem
 
-## Modelo 3D Case
-A case do projeto foi constrúida através do programa Fusion 360. Nele foi feito todo o desenho técnico e extrusão do objeto. A fabricação ocorreu no Protolab do IMD/NPITI.
-
+* **Construção da PCB:** Projetada no **EasyEDA**. O fluxo envolveu desde o esquemático até o roteamento otimizado. Fabricada pelo **Protolab do IMD/NPITI**.
+* **Modelo 3D Case:** Desenvolvida no **Autodesk Fusion 360**, com foco em desenho técnico e extrusão para encaixe perfeito dos componentes. Fabricação realizada via impressão 3D/usinagem no **Protolab do IMD/NPITI**.
 
 
 
