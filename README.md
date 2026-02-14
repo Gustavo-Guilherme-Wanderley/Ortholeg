@@ -1,5 +1,7 @@
 # OrthoLeg - Sistema de Auxílio a locomoção
 
+> Status: Em desenvolvimento ⚠️
+
 O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à locomoção para pessoas que necessitam de ajuda quanto a isso. Este repositório contém todo o material necessário para replicar o hardware e o software utilizado no exoesqueleto.
 
 ### Foto do exoesqueleto 
@@ -61,5 +63,5 @@ O Firmware presente no `Controle_articulacao_em_Graus_V1.ino` é o mesmo nos qua
 * **Construção da PCB:** Projetada no **EasyEDA**. Fabricada pelo **Protolab do IMD/NPITI**.
 * **Modelo 3D Case:** Desenvolvida no **Autodesk Fusion 360**, com foco em desenho técnico e extrusão para encaixe perfeito dos componentes. Fabricação realizada via impressão 3D/usinagem no **Protolab do IMD/NPITI**.
 
-
+> Em breve mais informações! ⚠️
 
