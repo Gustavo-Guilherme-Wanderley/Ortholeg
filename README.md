@@ -2,6 +2,10 @@
 
 O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à locomoção para pessoas que necessitam de ajuda quanto a isso. Este repositório contém todo o material necessário para replicar o hardware e o software utilizado no exoesqueleto.
 
+### Foto do exoesqueleto 
+
+<img width="450" height="1000" alt="Image" src="https://github.com/user-attachments/assets/bc33c4d5-1661-427d-85cf-b37730661d6b" />
+
 ---
 ## Organização do Repositório
 
