@@ -4,7 +4,7 @@ O projeto **OrthoLeg** tem a finalidade de criar um dispositivo de auxílio à l
 
 ---
 
-## Hardware: OrthoLeg Board V1
+## Hardware: Ortholeg Board V1
 
 A **OrthoLeg Board V1** consiste em uma placa que contém:
 * Dois Arduinos Nano.
@@ -25,10 +25,10 @@ A **OrthoLeg Board V1** consiste em uma placa que contém:
 
 ## Tecnologias e Funcionalidades
 
-* **Firmware:** Escrito em C++/Arduino, focado em controle PID de malha fechada.
+* **Firmware:** Escrito em C++ (Arduino), focado em controle PID.
 * **Sensores:** Utilização de encoders de alta resolução (**37.000 pulsos/volta**) para precisão de movimento.
-* **Mecânica:** Sistema de fuso para conversão de movimento circular em linear (curso de ~60.58mm para 90°).
-* **Software de Suporte:** Scripts em Python para telemetria e análise de desempenho dos motores em tempo real.
+* **Mecânica:** Sistema de fuso para conversão de movimento circular em linear.
+* **Software de Suporte:** Scripts em Python (Raspberry Pi) para envio de comandos e análise de desempenho dos motores em tempo real.
 
 ## Organização do Repositório
 
