@@ -30,8 +30,12 @@ A **OrthoLeg Board V1** consiste em uma placa que contém:
 * **Mecânica:** Sistema de fuso para conversão de movimento circular em linear.
 * **Software de Suporte:** Scripts em Python (Raspberry Pi) para envio de comandos e análise de desempenho dos motores em tempo real.
 
-## Organização do Repositório
+## Script Raspberry Pi
+O script "SerialScript.py" consiste na utilização da biblioteca PySerial para realizar a comunicação bidirecional entre os 4 arduinos e o raspberry pi. No código em python, é possível inserir uma sequência de ângulos a serem atingidos pelo exoesqueleto. Sendo assim, essa sequência é passada para os arduinos e assim o movimento é realizado. Através desse script, é possível também ler tudo o que o arduino manda através do raspberry, tornando a leitura de todas as portas serias de forma mais fácil.
 
-* `/firmware`: Códigos `.ino` para os Arduinos Nano.
-* `/hardware`: Arquivos de projeto da PCB (EasyEDA) e modelos 3D (`.f3d`).
-* `/scripts`: Ferramentas em Python para leitura serial e plotagem de gráficos.
+## Firmware Arduino
+O Firmware presente no "Controle_articulacao_em_Graus_V1.ino" é o mesmo nos quatro arduinos utilizados. Ele consiste em um algoritmo de controle todo feito em C++ para que os motores de alta precisão funcionem. Sendo assim, ele funciona em conjunto com o código presente no raspberry pi.
+
+
+
+
